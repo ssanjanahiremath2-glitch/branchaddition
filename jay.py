@@ -1,0 +1,1 @@
+print("There are 500 mangoes in boxs")
